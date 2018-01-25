@@ -13,5 +13,33 @@ public class Main {
         System.out.println("x = 6");
         System.out.println("y = 1");
 
+        if(a == x && y + y == a) {
+        }
+
+        if(a != x) && y + y == a) {
+
+        }
+
+        if (a < b){
+            System.out.println("a < b");
+        }
+
+        /* && = AND = Both conditions have to be true
+           || = or = Only ONE condition has to be true for this to be true
+           ! = not =
+           == - Checks against it
+
+
+
+
+
+
+         */
+
+
+
+
+
     }
+
 }
